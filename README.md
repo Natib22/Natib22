@@ -7,7 +7,7 @@
 - 📫 How to reach me <a href="natibir400@gmail.com">email</a>
 
 - ⚡ Fun fact **#tech-savvy// open to collaborate on open source projects**
-- 
+
 - Feel free to connect with me and let's learn together! 😊
 
 <h3 align="left">Connect with me:</h3>
