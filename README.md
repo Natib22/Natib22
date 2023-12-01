@@ -2,10 +2,11 @@
 <h1 align="center">Hi 👋, I'm Natnael</h1>
 <h3 align="center">I am Currently a Computer Science Student At AAU | CNCS</h3>
 
+
 - 🌱 I’m currently learning **Javascript| C++| HTML | CSS**
 - I take pleasure in acquiring new knowledge on a daily basis. Additionally, I'm actively diving into fresh algorithms to improve my expertise and comprehension in the field.
 
-- 📫 How to reach me <a href="natibir400@gmail.com">email</a>
+- 📫 How to reach me | <a href="mailto:natibir400@gmail.com" style="font-size: 24px;" href="#">&#9993;</a> |
 
 - ⚡ Fun fact **#tech-savvy// open to collaborate on open source projects**
 
