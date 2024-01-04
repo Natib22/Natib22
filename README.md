@@ -29,5 +29,7 @@
 
 ### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Natib22&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natib22&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
