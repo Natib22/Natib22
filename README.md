@@ -33,6 +33,32 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
 </a>
 
+
+
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="10" height="50" />
+</a>
+
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/coherencez/tech-logos/blob/master/express.png" alt="Express.js" width="50" height="50" />
+</a>
+
+
+
+
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/coherencez/tech-logos/blob/master/npm.png" alt="Express.js" width="50" height="50" />
+</a>
+
+
+
+
+
+
+
+
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
 </a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
