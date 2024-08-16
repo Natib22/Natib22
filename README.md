@@ -84,19 +84,26 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
 </a>
 
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" width="50" height="50" />
+</a>
+
 
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next.js" width="50" height="50" />
   </a>
 
-
-
-
-
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="TypeScript" width="50" height="50" />
+<a href="https://next-auth.js.org/" target="_blank" rel="noreferrer">
+  <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="50" height="50" />
 </a>
+
+
+
+
+
+
+
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
