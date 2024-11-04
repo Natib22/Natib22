@@ -1,6 +1,6 @@
 ![Profile Image](https://github.com/Natib22/Natib22/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Natnael</h1>
-<h3 align="center">I am Currently a Computer Science Student At AAU | CNCS</h3>
+<h3 align="center">I am a Computer Science Student At AAU | CNCS</h3>
 
 
 - 🌱 I’m currently working with **NextJs| React | NodeJs | ExpressJs**
