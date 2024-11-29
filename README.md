@@ -3,7 +3,6 @@
 <h3 align="center">I am a Computer Science Student At AAU | CNCS</h3>
 
 
-
 - 🌱 I’m currently working with **NextJs| React | NodeJs | ExpressJs**
 - I take pleasure in acquiring new knowledge on a daily basis. Additionally, I'm actively diving into fresh algorithms to improve my expertise and comprehension in the field.
 
